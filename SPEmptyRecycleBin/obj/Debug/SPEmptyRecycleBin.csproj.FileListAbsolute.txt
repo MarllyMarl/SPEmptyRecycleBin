@@ -1,0 +1,8 @@
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Debug\SPEmptyRecycleBin.exe.config
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Debug\SPEmptyRecycleBin.exe
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Debug\SPEmptyRecycleBin.pdb
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\obj\Debug\SPEmptyRecycleBin.exe
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\obj\Debug\SPEmptyRecycleBin.pdb
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Debug\SPEmptyRecycleBin.exe.config
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\obj\Debug\SPEmptyRecycleBin.exe
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\obj\Debug\SPEmptyRecycleBin.pdb

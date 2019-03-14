@@ -1,0 +1,17 @@
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\SPEmptyRecycleBin.exe.config
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\SPEmptyRecycleBin.exe
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\SPEmptyRecycleBin.pdb
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\Microsoft.SharePoint.Client.dll
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\Microsoft.SharePoint.dll
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\obj\Release\SPEmptyRecycleBin.exe
+C:\Development\VisualStudio2015\SPEmptyRecycleBin\SPEmptyRecycleBin\obj\Release\SPEmptyRecycleBin.pdb
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\SPEmptyRecycleBin.exe.config
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\obj\Release\SPEmptyRecycleBin.exe
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\obj\Release\SPEmptyRecycleBin.pdb
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\SPEmptyRecycleBin.exe
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\SPEmptyRecycleBin.pdb
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\Microsoft.SharePoint.Client.dll
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\bin\Release\Microsoft.SharePoint.dll
+C:\Users\knasdmd\Documents\My Utility Apps\SPEmptyRecycleBin\SPEmptyRecycleBin\obj\Release\SPEmptyRecycleBin.csprojResolveAssemblyReference.cache
